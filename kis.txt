@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello  
-=======
 hello world! 
 here is my first document on git  hiii hinata
->>>>>>> kishore
